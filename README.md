@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasir Ali
 
-<!--
-**yasiralinarejo1155-droid/yasiralinarejo1155-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI & ML Student | Full-Stack Developer | Social Media Manager**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+💡 Passionate about Artificial Intelligence and smart solutions
+🌐 Building modern and responsive web applications
+📈 Helping brands grow with digital strategies
+🎯 Focused on learning, innovation & real-world projects
+
+---
+
+## 🛠️ Skills
+
+🤖 AI & Machine Learning
+🧠 Deep Learning
+🌐 HTML, CSS, JavaScript
+⚙️ Full-Stack Development
+📱 Social Media Management
+💬 Communication Skills
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yasiralinarejo1155-droid\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![Streak](https://streak-stats.demolab.com/?user=yasiralinarejo1155-droid\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+📧 [yasiralinarejo1155@gmail.com](mailto:yasiralinarejo1155@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I turn ideas into real-world digital solutions 🚀
